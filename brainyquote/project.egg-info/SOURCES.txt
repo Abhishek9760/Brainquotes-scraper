@@ -1,0 +1,13 @@
+setup.py
+brainyquote/__init__.py
+brainyquote/items.py
+brainyquote/middlewares.py
+brainyquote/pipelines.py
+brainyquote/settings.py
+brainyquote/spiders/__init__.py
+brainyquote/spiders/quotes.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
